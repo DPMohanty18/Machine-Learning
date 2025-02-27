@@ -46,5 +46,3 @@ if st.button("Predict Diabetes Risk 🚀"):
         st.error("⚠️ High risk of diabetes! Please consult a doctor.")
     else:
         st.success("✅ No risk detected. Keep maintaining a healthy lifestyle!")
-
-st.write("Made with ❤️ using Streamlit")
